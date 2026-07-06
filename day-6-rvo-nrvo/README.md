@@ -66,7 +66,7 @@ RVO and NRVO are useful when:
 - Returning RAII wrappers or objects with clear ownership
 - Creating clean factory functions
 - Keeping APIs readable
-- Getting compiler-friendly performance
+- Getting compiler friendly performance
 
 ---
 
