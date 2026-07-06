@@ -109,5 +109,5 @@ return std::move(big_object);
 ## Conclusion
 
 - Do not fear returning objects by value
-- Modern C++ wants you to write value-oriented code
+- Modern C++ wants you to write value oriented code
 - The compiler is often smart enough to make it efficient
