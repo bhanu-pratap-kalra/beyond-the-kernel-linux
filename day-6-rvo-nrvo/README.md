@@ -1,4 +1,4 @@
-# Beyond the Kernel | Modern C++ & Linux | Day 6 - RVO and NRVO: When Return by Value Does Not Mean Copy
+# Beyond the Kernel | Modern C++ & Linux | Day 6 - RVO and NRVO, When Return by Value Does Not Mean Copy
 
 One of the elegant performance features in Modern C++ is that a function can return a heavy object by value and still avoid unnecessary copies.
 
