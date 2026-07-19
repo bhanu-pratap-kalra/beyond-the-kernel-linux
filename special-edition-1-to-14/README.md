@@ -133,7 +133,7 @@ std::string_view my_string_view;
 # 10. An rvalue reference parameter becomes an lvalue inside the function
 
 ```cpp
-void foo(BigObject&& big_object)
+void my_function(BigObject&& big_object)
 {
     // big_object is an lvalue here
 }
